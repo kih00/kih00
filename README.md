@@ -8,7 +8,7 @@ Hi, I'm Kim Inho
 - 🌱 I’m currently learning computer science & engineering.
 - 📫 How to reach me: inho5248@snu.ac.kr
 
-## Language & Skills
+## Languages & Skills
 
 - C, C++, Java, Python
 
