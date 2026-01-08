@@ -10,13 +10,13 @@ Hi, I'm Kim Inho
 
 ## Languages & Skills
 
-- C, C++, Java, Python
+- C, C++
 
-- Spring, MySQL, Docker
+- Python, PyTorch, JAX
 
-- PyTorch, HuggingFace
+- Spring, Kotlin, Docker, Kubernetes
 
-- Scala, Rust, OCaml
+- Scala, Rust, OCaml, Rocq
 
 - Git
 
